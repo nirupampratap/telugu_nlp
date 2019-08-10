@@ -1,0 +1,186 @@
+<doc url="http://www.charasala.com/blog/?p=186">
+2008	2008	QC		num				
+లో	లో	PSP		avy				
+మాకు	మేము	PRP	కి	pn	any	pl	1	o
+అమెరికా	అమెరికా	NNP	0	n		sg		d
+పౌరసత్వం	పౌరసత్వం	NN	0	n		sg		d
+పొందడానికి	పొందు	VM	అడం_కి	n		sg		
+మాకు	మేము	PRP	కి	pn	any	pl	1	o
+అర్హత	అర్హత	NN	0	n		sg		d
+వస్తుంది	వచ్చు	VM	తా	v	fn	sg	3	
+.	.	SYM		punc				
+</s>
+<s>
+మా	మేము	PRP	టి	pn	any	pl	1	o
+ఇద్దరు	ఇద్దరు	NN		n		pl		d
+పిల్లలూ	పిల్ల	NN	ఈ	n		pl		
+జన్మతః	జన్మతః	NN		unk				
+అమెరికా	అమెరికా	NNP	0	n		sg		d
+పౌరులే	పౌరుడు	NN	0	n		pl		
+.	.	SYM		punc				
+</s>
+<s>
+అయితే	అయితే	CC	0	avy				
+ఏంటి	ఏంటి	WQ		unk				
+అంటారా	అంటు	VM	ఆ	v		pl	3	
+?	?	SYM		punc				
+</s>
+<s>
+ఇది	ఇది	PRP	0	pn	fn	sg	3	d
+చెప్పినంత	చెప్పు	VM	ఇన_అంత	v	any	any	any	
+సులభం	సులభం	NN	0	n		sg		d
+కాదు	కాదు	VM		v	fn	sg	3	
+మానసికంగా	మానసికం	RB	గా	n		sg		
+ఎంతో	ఎంతో	INTF	0	avy				
+ఘర్షణ	ఘర్షణ	NN	0	n		sg		d
+జరుగుతుంది	జరుగు	VM	తా	v	fn	sg	3	
+.	.	SYM		punc				
+</s>
+<s>
+పిల్లలకు	పిల్ల	NN	కి	n		pl		
+పుట్టిన	పుట్టు	VM	ఇన	v	any	any	any	
+చోటును	చోటు	NN	ను	n		sg		
+బట్టి	బట్టి	PSP	0	avy				
+పౌరసత్వం	పౌరసత్వం	NN	0	n		sg		d
+వస్తుందేమొ	వస్తుందేమొ	NN		unk				
+గానీ	గానీ	RP	0	avy				
+వారసత్వం	వారసత్వం	NN	0	n		sg		d
+వస్తుందా	వచ్చు	VM	తా	v	fn	sg	3	
+?	?	SYM		punc				
+</s>
+<s>
+తల్లిదండ్రులు	తల్లిదండ్రులు	NN	0	n		pl		d
+మరొక	మరొక	JJ		avy				
+సంస్కృతికి	సంస్కృతి	NNP	కి	n		sg		
+వారసులైతే	వారసులైతే	NN		unk				
+పిల్లలనూ	పిల్ల	NN	ని	n		pl		
+అదే	అది	PRP	0	pn	fn	sg	3	
+సంస్కృతికి	సంస్కృతి	NNP	కి	n		sg		
+వారసులుగా	వారసు	RB	గా	n		pl		
+చేయాలనుకుంటారు	చేయాలనుకుంటారు	VM		unk				
+.	.	SYM		punc				
+</s>
+<s>
+అసలు	అసలు	NN	0	n		sg		d
+పిల్లలను	పిల్ల	NN	ని	n		pl		
+కనక	కనకం	CC	టి	n		sg		o
+ముందు	ముందు	NST	0	n		sg		d
+ఇక్కడ	ఇక్కడ	NST	0	n		sg		d
+కనాలా	కను	VM	ఆలి_ఆ	v	any	any	any	
+అక్కడ	అక్కడ	NST	0	adv				
+కనాలా	కను	VM	ఆలి_ఆ	v	any	any	any	
+అని	అని	UT	0	avy				
+బోలెడంత	బోలెడంత	QF		unk				
+సంఘర్షణ	సంఘర్షణ	NN	0	n		sg		d
+.	.	SYM		punc				
+</s>
+<s>
+ఇప్పుడు	ఇప్పుడు	NST	0	n		sg		d
+అమెరికా	అమెరికా	NNP	0	n		sg		d
+పౌరసత్వం	పౌరసత్వం	NN	0	n		sg		d
+తీసుకొనే	తీసుకో	VM	ఏ	v	any	any	any	
+అవకాశం	అవకాశం	NN	0	n		sg		d
+వస్తే	వచ్చు	VM	తే	v	any	any	any	
+తీసుకోవాలా	తీసుకో	VM	ఆలి_ఆ	v	any	any	any	
+వద్దా	వద్దు	VM	ఆ	avy				
+అనేది	అను	UT	ఏ_అది	pn		sg		
+మరో	మరో	QF		avy				
+పెద్ద	పెద్ద	JJ	0	adj		sg		o
+సంఘర్షణ	సంఘర్షణ	NN	0	n		sg		d
+.	.	SYM		punc				
+</s>
+<s>
+కాగితాల్లో	కాగితం	NN	లో	n		pl		
+సంతకాలు	సంతకం	NN	0	n		pl		d
+అయినంత	అవ్వు	VM	ఇన_అంత	v	any	any	any	
+మాత్రాన	మాత్రాన	PSP	0	avy				
+,	,	SYM		punc				
+బైబిల్	బైబిల్	NN	0	n		sg		d
+మీద	మీద	NST	0	n		sg		d
+ప్రమాణం	ప్రమాణం	NN	0	n		sg		d
+చేసినంత	చెయ్యి	VM	ఇన_అంత	v	any	any	any	
+మాత్రాన	మాత్రాన	PSP	0	avy				
+మనసులో	మనసు	NN	లో	n		sg		
+నాటుకున్న	నాటుకో	VM	తున్నా	v	any	any	any	
+విధేయతా	విధేయతా	NN		n		sg		
+బీజాలు	బీజం	NN	0	n		pl		d
+ఎలా	ఎలా	WQ	0	avy				
+పెళ్ళగింపబడతాయి	పెళ్ళగింపబడతాయి	VM		v	n	pl	3	
+?	?	SYM		punc				
+</s>
+<s>
+అది	అది	PRP	0	pn	fn	sg	3	d
+అయ్యే	అవ్వు	VM	ఏ	v	any	any	any	
+పనేనా	పనేనా	NN		unk				
+?	?	SYM		punc				
+</s>
+<s>
+రేపెప్పుడో	రేపెప్పుడో	PRP		unk				
+ప్రమాణం	ప్రమాణం	NN	0	n		sg		d
+చేసే	చెయ్యి	VM	ఏ	v	any	any	any	
+రోజున	రోజు	NN	న	n		sg		
+“	“	NN		unk				
+నేను	నేను	PRP	0	pn	any	sg	1	d
+అమెరికాకు	అమెరికా	NNP	కి	n		sg		
+విధేయుడనై	విధేయుడనై	VM		unk				
+వుంటాను	వుండు	VM	తా	v		sg	1	
+”	”	NN		n		sg		d
+అని	అని	UT	0	avy				
+ప్రమాణం	ప్రమాణం	NN	0	n		sg		d
+చేసినా	చెయ్యి	VM	ఇనా	v	any	any	any	
+రేపెప్పుడో	రేపెప్పుడో	PRP		unk				
+భవిష్యత్తులో	భవిష్యత్తు	NN	లో	n		sg		
+భారత్	భారత్	NNP	0	n		sg		d
+‌	‌	NNP		unk				
+కు	కు	PSP	0	avy				
+వ్యతిరేకంగా	వ్యతిరేకం	RB	గా	n		sg		
+పని	పని	NN	0	n		sg		d
+చేయాల్సిన	చెయ్యి	VM	అ_వలయు_ఇన	v	any	any	any	
+అవసరం	అవసరం	NN	0	n		sg		d
+వస్తే	వచ్చు	VM	తే	v	any	any	any	
+ఆ	ఆ	DEM		avy				
+పని	పని	NN	0	n		sg		d
+చేయగలమా	చెయ్యి	VM	అ_గల_తా	v		pl	1	
+?	?	SYM		punc				
+</s>
+<s>
+ఒకే	ఒకే	JJ	0	avy				
+సమయంలో	సమయం	NN	లో	n		sg		
+రెండింటికి	రెండు	NN	ఇంటికి	n				
+విధేయులుగా	విధేయుడు	RB	గా	n		pl		
+వుండొచ్చు	వుండు	VM	అ_వచ్చు	v	any	any	any	
+కానీ	కానీ	CC	0	avy				
+ఆ	ఆ	DEM		avy				
+రెండింటి	రెండు	NN	గంట	n				
+మద్యా	మద్యా	NN		unk				
+స్నేహం	స్నేహం	NN	0	n		sg		d
+వున్నప్పుడే	వున్నప్పుడే	VM		unk				
+కదా	కదా	RP	0	avy				
+!	!	SYM		punc				
+ఆ	ఆ	DEM		avy				
+రెండింటి	రెండు	NN	గంట	n				
+మద్యా	మద్యా	NN		unk				
+శతృత్వం	శతృత్వం	NN		unk				
+వుంటే	వుండు	VM	తే	v	any	any	any	
+విధేయత	విధేయత	NN	0	n		sg		d
+కూడా	కూడా	PSP	0	avy				
+ఏదో	ఏది	WQ	0	pn	fn	sg	3	
+ఓ	ఓ	JJ		avy				
+వైపుకే	వైపు	NN	కి	n		sg		
+మొగ్గక	మొగ్గక	NN		v	any	any	any	
+తప్పదు	తప్పు	VM	అ	v	fn	sg	3	
+.	.	SYM		punc				
+</s>
+<s>
+భవిష్యత్తులో	భవిష్యత్తు	NN	లో	n		sg		
+అలాంటి	అలాంటి	JJ	0	adj				
+పరిస్థితి	పరిస్థితి	NN	0	n		sg		d
+ఎదురవ్వక	ఎదురవ్వు	VM	అక	v	any	any	any	
+పోవచ్చు	పో	VM	అ_వచ్చు	v	any	any	any	
+కానీ	కానీ	CC	0	avy				
+సంభవమే	సంభవ	NN	0	n		sg		
+కదా	కదా	RP	0	avy				
+?	?	SYM		punc				
+</s>
+<s>
+</doc>
